@@ -17,7 +17,7 @@ namespace polymorphism
 
         public virtual void Print()
         {
-            Console.WriteLine("\nPrinter printing");
+            Console.WriteLine("Printer printing");
         }
     }
 }

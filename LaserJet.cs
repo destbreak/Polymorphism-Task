@@ -10,12 +10,12 @@ namespace polymorphism
     {
         public override void Show()
         {
-            Console.WriteLine("LaserJet display dimension : 12*12");
+            Console.WriteLine("\nLaserJet display dimension : 12*12");
         }
 
         public override void Print()
         {
-            Console.WriteLine("LaserJet printer printing ...");
+            Console.WriteLine("LaserJet printer printing ....");
         }
     }
 }

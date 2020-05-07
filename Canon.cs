@@ -10,12 +10,12 @@ namespace polymorphism
     {
         public override void Show()
         {
-            Console.WriteLine("Canon display dimension : 9.5*12");
+            Console.WriteLine("\nCanon display dimension : 9.5*12");
         }
 
         public override void Print()
         {
-            Console.WriteLine("Canon printer printing ...");
+            Console.WriteLine("Canon printer printing ....");
         }
     }
 }
